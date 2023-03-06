@@ -1,2 +1,5 @@
 # Veridic-HireSprint2023
-This is a hackathon organised by Veridic Solutions. Topic is given in the Readme.md file.
+
+EV charging station
+Develop a backend API in any tech stack to create, read, update & delete EV battery stations in the city.
+
